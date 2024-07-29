@@ -6,7 +6,7 @@ Alat Sederhana mengubah Alamat IP secara otomatis manggunakan layanan tor
 
 *Cloning Repository:*
 ```bash
-git clone https://github.com/FDX100/TorSwift.git
+git clone https://github.com/Yoga913/TorSwift.git
 ```
 
 *Masuk Direktory:*
